@@ -6,6 +6,7 @@ body
     font-family: 'Tilt Warp', cursive;
     font-size: 120%;
     /*font-family: 'Rubik Mono One', sans-serif;*/
+    overflow-x: hidden;
     
 }
 
